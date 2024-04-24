@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mary/static/css/main.46cbcdd9.css",
+    "main.js": "/mary/static/js/main.98985100.js",
+    "static/js/787.0fcac193.chunk.js": "/mary/static/js/787.0fcac193.chunk.js",
+    "static/media/anilady.jpg": "/mary/static/media/anilady.fc8b916c40a762a4129f.jpg",
+    "index.html": "/mary/index.html",
+    "main.46cbcdd9.css.map": "/mary/static/css/main.46cbcdd9.css.map",
+    "main.98985100.js.map": "/mary/static/js/main.98985100.js.map",
+    "787.0fcac193.chunk.js.map": "/mary/static/js/787.0fcac193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cbcdd9.css",
+    "static/js/main.98985100.js"
+  ]
+}
